@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Exercise2Maven:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6d7544d1-c12e-40b1-9596-4644690763ff" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Exercise2Maven" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZIVi4UJZ2Lky8Zi7AlSYNlh4Rs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/target" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Exercise2Maven" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemberTest.AttendanceCanBeChanged" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exercise2Maven" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MemberTest" />
+      <option name="METHOD_NAME" value="AttendanceCanBeChanged" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemberTest.IDcanBeChanged" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exercise2Maven" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MemberTest" />
+      <option name="METHOD_NAME" value="IDcanBeChanged" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemberTest.NamecanBeChanged" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exercise2Maven" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MemberTest" />
+      <option name="METHOD_NAME" value="NamecanBeChanged" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test in Exercise2Maven" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exercise2Maven" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/src/test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.MemberTest.AttendanceCanBeChanged" />
+        <item itemvalue="JUnit.MemberTest.NamecanBeChanged" />
+        <item itemvalue="JUnit.MemberTest.IDcanBeChanged" />
+        <item itemvalue="JUnit.test in Exercise2Maven" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d7544d1-c12e-40b1-9596-4644690763ff" name="Default Changelist" comment="" />
+      <created>1584526718891</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584526718891</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="629" y="87" width="811" height="669" key="#Project_Structure" timestamp="1584621545287">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state x="629" y="87" width="811" height="669" key="#Project_Structure/0.23.1440.798@0.23.1440.798" timestamp="1584621545287" />
+    <state x="629" y="87" key="#Project_Structure/0.23.1440.801@0.23.1440.801" timestamp="1584611505525" />
+    <state x="764" y="195" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1584536565974">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="764" y="195" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1440.801@0.23.1440.801" timestamp="1584536565974" />
+    <state x="836" y="130" key="#com.intellij.ide.util.MemberChooser" timestamp="1584607328203">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="836" y="130" key="#com.intellij.ide.util.MemberChooser/0.23.1440.798@0.23.1440.798" timestamp="1584545617823" />
+    <state x="836" y="130" key="#com.intellij.ide.util.MemberChooser/0.23.1440.801@0.23.1440.801" timestamp="1584607328203" />
+    <state x="665" y="214" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584624818979">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="665" y="213" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.798@0.23.1440.798" timestamp="1584624274326" />
+    <state x="665" y="214" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.801@0.23.1440.801" timestamp="1584624818979" />
+    <state x="321" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584603270967">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state x="321" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.798@0.23.1440.798" timestamp="1584603270967" />
+    <state width="716" height="196" key="GridCell.Tab.0.bottom" timestamp="1584625526787">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="716" height="196" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1584625526787" />
+    <state width="1398" height="196" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1584621980877" />
+    <state width="716" height="196" key="GridCell.Tab.0.center" timestamp="1584625526787">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="716" height="196" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1584625526787" />
+    <state width="1398" height="196" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1584621980876" />
+    <state width="716" height="196" key="GridCell.Tab.0.left" timestamp="1584625526786">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="716" height="196" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1584625526786" />
+    <state width="1398" height="196" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1584621980876" />
+    <state width="716" height="196" key="GridCell.Tab.0.right" timestamp="1584625526787">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="716" height="196" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1584625526787" />
+    <state width="1398" height="196" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1584621980877" />
+    <state width="1398" height="182" key="GridCell.Tab.1.bottom" timestamp="1584623423297">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="1398" height="182" key="GridCell.Tab.1.bottom/0.23.1440.798@0.23.1440.798" timestamp="1584623423297" />
+    <state width="1398" height="182" key="GridCell.Tab.1.center" timestamp="1584623423297">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="1398" height="182" key="GridCell.Tab.1.center/0.23.1440.798@0.23.1440.798" timestamp="1584623423297" />
+    <state width="1398" height="182" key="GridCell.Tab.1.left" timestamp="1584623423296">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="1398" height="182" key="GridCell.Tab.1.left/0.23.1440.798@0.23.1440.798" timestamp="1584623423296" />
+    <state width="1398" height="182" key="GridCell.Tab.1.right" timestamp="1584623423297">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="1398" height="182" key="GridCell.Tab.1.right/0.23.1440.798@0.23.1440.798" timestamp="1584623423297" />
+    <state x="516" y="84" key="Maven.ArtifactSearchDialog" timestamp="1584606384470">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state x="516" y="84" key="Maven.ArtifactSearchDialog/0.23.1440.798@0.23.1440.798" timestamp="1584606384470" />
+    <state x="416" y="23" key="SettingsEditor" timestamp="1584624876728">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="416" y="23" key="SettingsEditor/0.23.1440.798@0.23.1440.798" timestamp="1584624292501" />
+    <state x="416" y="23" key="SettingsEditor/0.23.1440.801@0.23.1440.801" timestamp="1584624876728" />
+    <state x="719" y="179" width="683" height="486" key="find.popup" timestamp="1584624934760">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state x="719" y="179" width="683" height="486" key="find.popup/0.23.1440.798@0.23.1440.798" timestamp="1584624934760" />
+    <state x="715" y="145" width="670" height="679" key="search.everywhere.popup" timestamp="1584611723837">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="715" y="145" width="670" height="676" key="search.everywhere.popup/0.23.1440.798@0.23.1440.798" timestamp="1584541611071" />
+    <state x="715" y="145" width="670" height="679" key="search.everywhere.popup/0.23.1440.801@0.23.1440.801" timestamp="1584611723837" />
+  </component>
+</project>
